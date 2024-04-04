@@ -4,3 +4,4 @@ function greet (name) {
 
 const greeting = greet("Kailee");
 
+console.log(greeting);
